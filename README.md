@@ -3,14 +3,14 @@
 ## Overview
 This project focuses on analyzing a dataset using Python to uncover meaningful insights and trends. The analysis includes data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and interpretation of results.
 
-**Objectives: -**
+## Objectives
 - Understand the dataset and its features.
 - Clean and preprocess the data.
 - Perform Exploratory Data Analysis (EDA).
 - Create visualizations to identify patterns and trends.
 - Generate actionable insights from the data.
 
-**Tools and Technologies used**
+## Tools and Technologies used
 - Python
 - Jupyter Notebook
 - Pandas
@@ -18,7 +18,7 @@ This project focuses on analyzing a dataset using Python to uncover meaningful i
 - Matplotlib
 - Seaborn
 
-**Project Workflow**
+## Project Workflow
 - Data Collection
 - Data Cleaning
 - Data Preprocessing
@@ -26,7 +26,7 @@ This project focuses on analyzing a dataset using Python to uncover meaningful i
 - Data Visualization
 - Insights and Conclusions
 
-**Key Analyses Performed**
+## Key Analyses Performed
 - Missing Value Treatment
 - Duplicate Data Removal
 - Statistical Summary
@@ -34,7 +34,7 @@ This project focuses on analyzing a dataset using Python to uncover meaningful i
 - Trend Analysis
 - Visualization using Charts and Graphs
 <img width="1449" height="505" alt="Screenshot_4-8-2026_13421_localhost" src="https://github.com/user-attachments/assets/4a54be5c-229d-4b25-a822-636e793ba0b9" />
-The above one is the dataset of diwali sales.
+**The above one is the dataset of Diwali sales.**
 
 <img width="800" height="545" alt="Screenshot_4-8-2026_13459_localhost" src="https://github.com/user-attachments/assets/0522cd05-a938-48cc-8dff-b58fa2bd378b" />
 
