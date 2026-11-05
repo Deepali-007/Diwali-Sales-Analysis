@@ -1,5 +1,6 @@
-# Python_project_analysis
-Overview
+# Diwali Sales Analysis
+
+## Overview
 This project focuses on analyzing a dataset using Python to uncover meaningful insights and trends. The analysis includes data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and interpretation of results.
 
 **Objectives: -**
